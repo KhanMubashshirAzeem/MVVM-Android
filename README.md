@@ -141,3 +141,8 @@ com.example.app
 - **com.example.app.ui.view**: Contains UI components like `MainActivity.kt`.
 - **com.example.app.ui.viewmodel**: Contains ViewModel classes like `MainViewModel.kt`.
 - **res/layout**: Contains layout XML files like `activity_main.xml`.
+
+## [Detailed Explanation of MVVM Architecture in Android](https://amitshekhar.me/blog/mvvm-architecture-android)
+
+## Connect with me.
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khanmubashshir/)
